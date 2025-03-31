@@ -1,2 +1,2 @@
 def greet():
-    print("Hello from feature-branch-1!")
+    print("Hello from both branches!")
